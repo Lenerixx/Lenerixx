@@ -14,8 +14,11 @@
 </div>
 
 <div id="heythere" align="center">
-<h1> Профиль на GITHUB </h1>
+<h1> Profile on GITHUB </h1>
 </div>
 
-:relaxed:	Обо мне :
+:relaxed:	About me :
 
+- 🧠: teaching c++/c#
+- 👾: reading a lot
+- :100: trying to be better
