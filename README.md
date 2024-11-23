@@ -19,6 +19,6 @@
 
 :relaxed:	About me :
 
-- 🧠: teaching c++/c#
+- 🧠: studying c++/c#
 - 👾: reading a lot
-- :100: trying to be better
+- :100: trying to be better in my proffecion
