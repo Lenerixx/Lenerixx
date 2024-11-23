@@ -42,7 +42,12 @@
 ### ⌨️ Наиболее используемые языки :
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenerixx" width="40" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenerixx" width="40" height="40"/>
+</div>
 
+### 📊 Статистика активности :
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenerixx&rogue" alt=""/>
   
 </div>
+
