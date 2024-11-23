@@ -22,3 +22,4 @@
 - 🧠: studying c++/c#
 - 👾: reading a lot
 - :100: trying to be better in my proffecion
+###Hummer_and_wrench: Языки и инструменты
